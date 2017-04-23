@@ -1,7 +1,7 @@
-# Angular QuickStart Source
+# IFE 2016 任务实现表
 [![Build Status][travis-badge]][travis-badge-url]
 
-我的ife源码网站:http://fine888.leanapp.cn
+我的ife源码网站: [](http://fine888.leanapp.cn) 
 
 This repository holds the TypeScript source code of the [angular.io quickstart](https://angular.io/docs/ts/latest/quickstart.html),
 the foundation for most of the documentation samples and potentially a good starting point for your application.
